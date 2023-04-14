@@ -1,0 +1,13 @@
+*Player Base Stats:  hp:10,atk:3,spd:3
+
+-
+
+Cyclop - very slow (hp: 5, atk: 3,spd:1)
+
+Pixie - flies (hp:2, atk:1, spd:2)
+
+Skeleton - very fast (hp:3, atk:2, spd:4)
+
+Spider - can climb vertically (hp:3,atk:2,spd:2)
+
+Zombie - normal speed (hp:3,atk:2,spd:3)
